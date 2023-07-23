@@ -5,7 +5,7 @@ Skills: PHP / SQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on MTIC Tecnologia. 
 - 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Invar. 
+- 👯 I’m looking to collaborate on CraftSys. 
 - 📫 How to reach me: guihvila@hotmail.com 
 
 
