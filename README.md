@@ -1,17 +1,12 @@
 ### Hi there 👋, My name is Guilherme Vila Nova
 ### I am Fullstack Developer (PHP)
 
-Skills: PHP / SQL / JS / HTML / CSS
+Experienced FullStack Developer with a focus on educational systems and scalable software architecture. Currently engaged in developing an innovative project, leveraging MultiTenancy structure within a Laravel 10 API, seamlessly integrated with VueJS 3 front-ends hosted on AWS.
 
-- 🔭 I’m currently working on MTIC Tecnologia. 
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on CraftSys. 
+With a fervent passion for technology and a solid grasp of development best practices, I continually strive to optimize and enhance project efficiency. I bring expertise in Git, along with Agile methodologies such as Scrum and GitFlow, ensuring a streamlined and collaborative workflow.
+
+Always seeking challenges that allow me to apply my knowledge and skills to drive project success and achieve outstanding results. If you're seeking a committed, technology-driven professional to join your team, I'm ready to contribute and make a difference.
+
+- 🔭 I’m currently working on Craftsys. 
 - 📫 How to reach me: guihvila@hotmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gui-vncarvalho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gui-vncarvalho//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-vncarvalho)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-vncarvalho&show_icons=true&count_private=true)  
 
