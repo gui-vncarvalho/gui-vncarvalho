@@ -7,6 +7,6 @@ With a fervent passion for technology and a solid grasp of development best prac
 
 Always seeking challenges that allow me to apply my knowledge and skills to drive project success and achieve outstanding results. If you're seeking a committed, technology-driven professional to join your team, I'm ready to contribute and make a difference.
 
-###📫 How to reach me: 
+#### 📫 How to reach me: 
 - Email: guihvila@hotmail.com
 
