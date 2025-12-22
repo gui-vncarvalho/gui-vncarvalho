@@ -1,12 +1,30 @@
-### Hi there 👋, My name is Guilherme Carneiro Vila Nova de Carvalho
-### I am Fullstack Developer (PHP)
+## Hi there 👋 I'm Guilherme Carneiro Vila Nova de Carvalho
 
-Experienced FullStack Developer with a focus on educational systems and scalable software architecture. Currently engaged in developing an innovative project, leveraging MultiTenancy structure within a Laravel 10 API, seamlessly integrated with VueJS 3 front-ends hosted on AWS.
+🚀 **Full Stack Developer** specialized in **PHP (Laravel, CodeIgniter)** and **Vue.js**
 
-With a fervent passion for technology and a solid grasp of development best practices, I continually strive to optimize and enhance project efficiency. I bring expertise in Git, along with Agile methodologies such as Scrum and GitFlow, ensuring a streamlined and collaborative workflow.
+I’m an experienced Full Stack Developer with a strong focus on **educational platforms**, **scalable architectures**, and **clean, maintainable code**.
 
-Always seeking challenges that allow me to apply my knowledge and skills to drive project success and achieve outstanding results. If you're seeking a committed, technology-driven professional to join your team, I'm ready to contribute and make a difference.
+Currently, I’m working on an innovative project built with a **Multi-Tenant architecture** using **Laravel API** integrated with **Vue 3 front-end applications**, deployed and managed on **AWS**.
 
-#### 📫 How to reach me: 
-- Email: guihvila@hotmail.com
+### 💡 What I do
+- Design and develop **scalable web applications**
+- Build **multi-tenant SaaS platforms**
+- Create RESTful APIs with Laravel
+- Develop modern, reactive front-ends with Vue.js
+- Apply **best practices**, clean architecture, and performance optimization
 
+### 🛠️ Tech Stack & Practices
+- **Backend:** PHP, Laravel, CodeIgniter
+- **Frontend:** Vue.js 3, JavaScript
+- **DevOps / Cloud:** AWS
+- **Version Control:** Git
+- **Methodologies:** Scrum, Agile, GitFlow
+
+I’m highly passionate about technology and continuous improvement, always seeking challenges that push me to grow as a developer and deliver **high-quality, impactful solutions**.
+
+If you’re looking for a **committed, proactive, and technology-driven developer**, I’d be glad to contribute to your team and help build amazing products.
+
+---
+
+### 📫 How to reach me
+- 📧 Email: **guihvila@hotmail.com**
