@@ -1,30 +1,53 @@
-## Hi there 👋 I'm Guilherme Carneiro Vila Nova de Carvalho
+# 👋 Hi, I'm Guilherme Carvalho
 
-🚀 **Full Stack Developer** specialized in **PHP (Laravel, CodeIgniter)** and **Vue.js**
-
-I’m an experienced Full Stack Developer with a strong focus on **educational platforms**, **scalable architectures**, and **clean, maintainable code**.
-
-Currently, I’m working on an innovative project built with a **Multi-Tenant architecture** using **Laravel API** integrated with **Vue 3 front-end applications**, deployed and managed on **AWS**.
-
-### 💡 What I do
-- Design and develop **scalable web applications**
-- Build **multi-tenant SaaS platforms**
-- Create RESTful APIs with Laravel
-- Develop modern, reactive front-ends with Vue.js
-- Apply **best practices**, clean architecture, and performance optimization
-
-### 🛠️ Tech Stack & Practices
-- **Backend:** PHP, Laravel, CodeIgniter
-- **Frontend:** Vue.js 3, JavaScript
-- **DevOps / Cloud:** AWS
-- **Version Control:** Git
-- **Methodologies:** Scrum, Agile, GitFlow
-
-I’m highly passionate about technology and continuous improvement, always seeking challenges that push me to grow as a developer and deliver **high-quality, impactful solutions**.
-
-If you’re looking for a **committed, proactive, and technology-driven developer**, I’d be glad to contribute to your team and help build amazing products.
+🚀 **Senior Full Stack Software Engineer**  
+Focused on building scalable systems, high-performance applications, and reliable backend architectures.
 
 ---
 
-### 📫 How to reach me
+## 💡 About Me
+
+I specialize in designing and developing robust APIs, scalable SaaS platforms, and multi-tenant systems.
+
+My work goes beyond feature development — I focus on architecture, performance, and building systems that are reliable in real-world production environments.
+
+Currently working with **Laravel, Vue.js, and AWS**, delivering full stack solutions with strong backend foundations.
+
+---
+
+## ⚙️ What I Work With
+
+### 🧠 Backend & Architecture
+- Laravel (API development, multi-tenancy)
+- Scalable system design
+- Complex business rules & domain logic
+
+### 🎨 Frontend
+- Vue.js 3
+- Reactive and modern UI development
+
+### ☁️ Cloud & DevOps
+- AWS (deployment, infrastructure)
+- CI/CD pipelines (GitHub Actions)
+- Containerized environments (Docker)
+
+### 🔥 Specialized Experience
+- Multi-tenant SaaS platforms
+- Payment gateway integrations
+- Video streaming (HLS)
+- Performance optimization & system scalability
+
+---
+
+## 🚀 What I Care About
+
+- Clean, maintainable, and scalable code  
+- Performance and reliability in production  
+- Continuous improvement and learning  
+- Solving real-world problems with technology  
+
+---
+
+## 📫 Contact
+
 - 📧 Email: **guihvila@hotmail.com**
