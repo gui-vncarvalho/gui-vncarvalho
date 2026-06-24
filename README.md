@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guilherme Carvalho
 
-🚀 **Senior Full Stack Software Engineer**  
+🚀 **Full Stack Software Engineer**  
 Focused on building scalable systems, high-performance applications, and reliable backend architectures.
 
 ---
